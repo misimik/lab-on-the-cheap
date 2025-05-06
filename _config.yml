@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Michał's shopping blog'"
+title                    : "Best Aliexpress finds"
 title_separator          : "-"
-subtitle                 : "Best finds on Aliexpress" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Michał Mikołajczyk"
 description              : #""
 url                      : "https://shoppingblog.mikolajczyk.link"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -321,7 +321,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: false
+      teaser:
