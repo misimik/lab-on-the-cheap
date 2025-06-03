@@ -20,5 +20,5 @@ It’s not quite the universal charging utopia, but it’s close — neater, mod
 
 Let me know if you'd like a version tailored to a specific audience like makers, IT folks, or travelers.
 
-![My image](/assets/images/charger_setup.jpeg
+![My image](/assets/images/charger_setup.jpeg)
 
